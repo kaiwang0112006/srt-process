@@ -1,0 +1,215 @@
+1
+00:00:00,420 --> 00:00:03,580
+I mentioned a couple words while I
+was describing these different kinds
+我在描述不同种类的基金时
+
+2
+00:00:03,580 --> 00:00:06,510
+of funds that I wanted to
+touch on real quickly.
+提到了一些词语
+
+3
+00:00:06,510 --> 00:00:09,050
+I said liquid a couple times.
+我提到 liquid 许多次
+
+4
+00:00:09,050 --> 00:00:13,030
+What that means is the ease
+with which one can buy or
+它的意思是
+
+5
+00:00:13,030 --> 00:00:16,920
+sell shares in a particular holding.
+一个人可以买卖特定所有物的股份的难易程度
+
+6
+00:00:16,920 --> 00:00:19,655
+Stocks are extremely liquid.
+股票是极其的 liquid
+
+7
+00:00:19,655 --> 00:00:22,790
+ETFs are liquid in the same way,
+in other words
+ETFs 同样也是 liquid 换句话说
+
+8
+00:00:22,790 --> 00:00:27,170
+you can go to a stock exchange,
+you can buy an ETF and sell an ETF.
+你可以去一个股票交易所 你可以买卖 ETF
+
+9
+00:00:27,170 --> 00:00:30,220
+It's priced just like a stock,
+but when you buy it,
+它的价格就像股票一样 但是当你买的时候
+
+10
+00:00:30,220 --> 00:00:36,530
+you're buying shares of multiple
+stocks instead of just a single stock.
+你是在买多支股票 而不仅仅是一支
+
+11
+00:00:36,530 --> 00:00:41,742
+But ETFs are liquid because
+they're easy to trade.
+但是 ETFs 是 liquid 因为它们交易起来很容易
+
+12
+00:00:41,742 --> 00:00:46,910
+They're also liquid in many
+cases because there's so
+它们在多种情况下都是 liquid
+
+13
+00:00:46,910 --> 00:00:50,810
+much dollar value trading
+in them each day.
+因为每天都有许多美元价值交易
+
+14
+00:00:50,810 --> 00:00:54,600
+If you look up an ETF on
+say Google Finance or
+如果你在 Google Finance 或 Yahoo Finance 上搜索一个 ETF
+
+15
+00:00:54,600 --> 00:00:59,360
+Yahoo Finance, you can see how
+much volume is traded each day.
+你可以看到每天的交易量有多少
+
+16
+00:00:59,360 --> 00:01:04,200
+And ETFs with higher volumes
+are even more liquid.
+有更高交易量的 ETF 也就更 liquid
+
+17
+00:01:04,200 --> 00:01:06,440
+I mentioned large cap.
+我提到了很多 cap
+
+18
+00:01:06,440 --> 00:01:11,980
+What cap means here is capitalization or
+in other words,
+cap 在这里的意思是资本总额 换句话说
+
+19
+00:01:11,980 --> 00:01:16,970
+how much is the company
+worth according to
+公司的价值多少是依据
+
+20
+00:01:16,970 --> 00:01:22,360
+number of shares that are outstanding,
+times the price of the stock.
+股份的数量 乘以 股票的价格
+
+21
+00:01:22,360 --> 00:01:26,088
+So, some really huge cap stocks,
+因此 一些真正的大资本总额股票
+
+22
+00:01:26,088 --> 00:01:32,020
+say like Apple are worth many,
+many billions of dollars.
+比如 苹果公司 价值大量的美元
+
+23
+00:01:32,020 --> 00:01:36,340
+So when I say large cap stocks,
+that's what I'm referring to.
+当我提到大资本总额股票时 那就是我所指的
+
+24
+00:01:36,340 --> 00:01:41,000
+There's also small cap stocks that
+are similarly, have lower value.
+也有一些小资本总额的股票 它们有更低的价值
+
+25
+00:01:42,050 --> 00:01:46,350
+And one thing to mention as long as
+we're on this topic, is the price of
+需要提到一个关于这个话题的东西是
+
+26
+00:01:46,350 --> 00:01:51,540
+a stock really only relates to
+what one share is selling at.
+股票的价格只和股份的售出价格有关
+
+27
+00:01:51,540 --> 00:01:54,430
+It doesn't relate to the overall
+value of the company.
+和公司的总价值无关
+
+28
+00:01:54,430 --> 00:01:57,500
+We'll get into all of these
+topics a little bit later.
+我们后面会深入了解这些概念
+
+29
+00:01:57,500 --> 00:02:02,290
+Now to recap, there are at least
+these three types of funds.
+扼要重述 有这三种类型的基金
+
+30
+00:02:02,290 --> 00:02:05,510
+There are electronically traded funds,
+它们是电子交易的基金
+
+31
+00:02:05,510 --> 00:02:08,400
+which you can trade like
+stocks on a stock market.
+你可以在股票交易市场像交易股票一样交易它们
+
+32
+00:02:08,400 --> 00:02:12,100
+There's mutual funds, that
+are a little bit harder to get in and
+共同基金更难进入和退出
+
+33
+00:02:12,100 --> 00:02:15,900
+out of, but
+you can trade them on a daily basis.
+但你可以每天交易
+
+34
+00:02:15,900 --> 00:02:18,530
+You usually have to go
+through a specific broker.
+你通常需要通过一个特别的经纪人
+
+35
+00:02:18,530 --> 00:02:22,320
+You can't just trade them on your own,
+and
+你不可能自己交易这些基金
+
+36
+00:02:22,320 --> 00:02:28,000
+finally hedge funds require a specific
+agreement to trade into or out of.
+最后 对冲基金要求一个关于进入和退出的特别协议
+
+37
+00:02:28,000 --> 00:02:30,000
+Okay, those are the three
+major types of funds.
+好的 这就是三种主要类型的基金
